@@ -1,0 +1,11 @@
+# basic options
+title: New-awesome-blog
+author: Smart Guy
+email: your-email@domain.com
+description: A lovely wonderful blog
+twitter_username: jekyllrb
+github_username:  kazisaqlain
+
+# Build settings
+markdown: kramdown
+theme: minima
